@@ -329,7 +329,7 @@
             <a class="indicator indicator-up" href="#top" data-fancyscroll="data-fancyscroll"><span class="indicator-arrow indicator-arrow-one" data-zanim-xs='{"from":{"opacity":0,"y":15},"to":{"opacity":1,"y":-5,"scale":1},"ease":"Back.easeOut","duration":0.4,"delay":0.9}'></span><span class="indicator-arrow indicator-arrow-two" data-zanim-xs='{"from":{"opacity":0,"y":15},"to":{"opacity":1,"y":-5,"scale":1},"ease":"Back.easeOut","duration":0.4,"delay":1.05}'></span></a>
           </div>
           <div class="col-lg-4 text-lg-left mt-4 mt-lg-0">
-            <p class="fs--1 ls font-weight-bold mb-0 text-center">&copy;Copyright 2010-2020</p>
+            <p class="fs--1 ls font-weight-bold mb-0 text-center">&copy;2010-2020</p>
           </div>
           <div class="col-lg-4 text-lg-right order-lg-2 mt-2 mt-lg-0">
             <p class="fs--1 ls font-weight-bold mb-0 text-center">Feito com <i class="fa fa-heart" aria-hidden="true" style="color:#aa0000;"></i> por
